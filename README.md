@@ -13,4 +13,7 @@ made this game after learning gui in java at opp course,
 if you want to try this you can download the
 - Snake.jar
 - run.bat
+
 and run the batch file
+
+![](https://raw.githubusercontent.com/liadVax/SnakeGame/master/snake.PNG)
