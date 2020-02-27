@@ -14,6 +14,8 @@ if you want to try this you can download the
 - Snake.jar
 - run.bat
 
-and run the batch file
+run the batch file
+
+Enjoy
 
 ![](https://raw.githubusercontent.com/liadVax/SnakeGame/master/snake.PNG)
