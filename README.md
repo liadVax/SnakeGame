@@ -1,6 +1,6 @@
 ## snake game in java
 
-made this game after learning gui in java at opp course,
+made this game after learning gui in java at opp course
 
 ### instructions: 
 - eat the red apples to get score
